@@ -16,8 +16,6 @@ Sou Analista/desenvolvedor full stack atuando deste a criação das tabelas no b
   <code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></code>&nbsp;
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="40" /></code>&nbsp;
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358318-ff3ec280-e7c8-11ea-9d80-c8e249594078.png" alt="Postgres" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JavaScript" width="40" height="40"/></code>&nbsp;
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="40" /></code>&nbsp;
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="40" /></code>&nbsp;
@@ -41,7 +39,8 @@ Sou Analista/desenvolvedor full stack atuando deste a criação das tabelas no b
 
 <!--
 **gilsonTSC/gilsonTSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<code><img src="https://user-images.githubusercontent.com/51785898/91358318-ff3ec280-e7c8-11ea-9d80-c8e249594078.png" alt="Postgres" width="40" height="40"/></code>&nbsp;-
+<code><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>&nbsp;
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
