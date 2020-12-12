@@ -2,7 +2,7 @@
 
 ### Me chamo Gilson Trajano Soares Costa
 
-Sou Analista/desenvolvedor full stack atuando deste a criação das tabelas no banco até a criação das telas utilizando Java, PL/SQL, hibernate e Java JSF com PrimeFaces. E meu foco atual está nos estudos de Spring Boot e na criação de API Rest.
+Sou Analista/Desenvolvedor Java Pleno responsável pelo desenvolvimento/manutenção do sistema utilizando RESTfull API e PL/SQL. Aplicando melhorias em rotinas nas API's, telas e no banco usando o ecossistema Spring. E meu foco atual está em me aprofundar cada vez mais nesse mundo que é o Spring e RESTfull API.
 
 ### Meus objetivos: 
 * Melhorar cada dia mais 👨‍🎓
