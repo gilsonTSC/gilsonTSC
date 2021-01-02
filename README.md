@@ -2,7 +2,7 @@
 
 ### Me chamo Gilson Trajano Soares Costa
 
-Sou Analista/Desenvolvedor Java Pleno responsável pelo desenvolvimento/manutenção do sistema utilizando RESTfull API e PL/SQL. Aplicando melhorias em rotinas nas API's, telas e no banco usando o ecossistema Spring. E meu foco atual está em me aprofundar cada vez mais nesse mundo que é o Spring e RESTfull API.
+Sou Analista/Desenvolvedor Java Pleno responsável pelo desenvolvimento/manutenção do sistema utilizando RESTfull API e PL/SQL. Aplicando melhorias em rotinas nas API's, telas e no banco usando o ecossistema Spring. E meu foco atual está em me aprofundar cada vez mais nesse mundo que é o Spring, RESTfull API e Microsserviços.
 
 ### Meus objetivos: 
 * Melhorar cada dia mais 👨‍🎓
@@ -29,6 +29,13 @@ Sou Analista/Desenvolvedor Java Pleno responsável pelo desenvolvimento/manuten�
 **Rede Social**
 <p align="left">
 <a href="https://www.linkedin.com/in/gilson-trajano-b01ab28a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gilson-trajano-b01ab28a" height="30" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+**Aplicações**
+<p align="left">
+ <code><a href="https://gilson-financas-app.herokuapp.com/#/login" target="blank">Minhas Finanças App</a></code> &nbsp;&nbsp;
+ <code><a href="https://livraria-gil-api.herokuapp.com/swagger-ui.html" target="blank">Livraria Api(Swagger UI)</a></code> &nbsp;&nbsp;
+ <code><a href="https://gil-tasklist-app.herokuapp.com/" target="blank">Cadastro de Tarefas App</a></code> &nbsp;&nbsp;
 </p>
 
 ## Minhas contribuições:
