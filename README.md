@@ -33,6 +33,7 @@ Sou Analista/Desenvolvedor Java Pleno responsável pelo desenvolvimento/manuten�
 
 **Aplicações**
 <p align="left">
+ <code><a href="https://gilson-dsvendas.netlify.app/" target="blank">SDSvendas(dashboard)</a></code> &nbsp;&nbsp;
  <code><a href="https://gilson-financas-app.herokuapp.com/#/login" target="blank">Minhas Finanças App</a></code> &nbsp;&nbsp;
  <code><a href="https://livraria-gil-api.herokuapp.com/swagger-ui.html" target="blank">Livraria Api(Swagger UI)</a></code> &nbsp;&nbsp;
  <code><a href="https://gil-tasklist-app.herokuapp.com/" target="blank">Cadastro de Tarefas App</a></code> &nbsp;&nbsp;
