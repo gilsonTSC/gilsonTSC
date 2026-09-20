@@ -43,6 +43,8 @@ Actively Learning: Swift, SwiftUI, iOS Development.
 </p>
 
 **Applications Java(REST API) and Mobile(IOs/Mac)**
+- [Investimentos (IOs)](https://github.com/gilsonTSC/InvestimentosVitrine)
+- [Investimento Back-End](https://github.com/gilsonTSC/investimentos-backend)
 
 <!--
 ## My contributions:
