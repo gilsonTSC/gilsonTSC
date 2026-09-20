@@ -42,7 +42,7 @@ Actively Learning: Swift, SwiftUI, iOS Development.
  <code><a href="https://gilson-trajano-sds2.netlify.app" target="blank">Aplicação DS Delivery</a></code> &nbsp;&nbsp;
 </p>
 
-**Applications Java(REST API) and Mobile(IOs/Mac)**
+**Projetcs Java(REST API) and Mobile(IOs/Mac)**
 - [Investimentos (IOs)](https://github.com/gilsonTSC/InvestimentosVitrine)
 - [Investimento Back-End](https://github.com/gilsonTSC/investimentos-backend)
 
